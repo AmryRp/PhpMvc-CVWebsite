@@ -1,0 +1,2 @@
+[05-May-2020 04:52:21 UTC] PHP Notice:  Undefined variable: Contact in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/views/index.php on line 31
+[05-May-2020 04:52:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/views/index.php on line 31

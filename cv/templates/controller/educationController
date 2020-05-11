@@ -1,0 +1,62 @@
+<?php
+class educationController extends Controller
+{
+    function index()
+    {
+        require($_SERVER['DOCUMENT_ROOT'] . '/cv/templates/Models/Education.php');
+
+        $contact = new Contact();
+
+        $d['Contact'] = $contact->showAllTasks();
+        $this->set($d);
+        $this->render("index");
+    }
+
+    public static function create()
+    {
+        require($_SERVER['DOCUMENT_ROOT'] . "/cv/templates/config/databaseconnect.php");
+        require($_SERVER['DOCUMENT_ROOT'] . "/cv/templates/Models/Education.php");
+        $connection = Database::getBdd();
+        $query =("INSERT INTO education(name, link) VALUES (':name',':link')");
+   
+        $addNama = $_POST['name'];
+        $addLink = $_POST['link'];
+        
+        $addData = $connection->prepare($query);
+        $addData->bindValue(':name',$addNama);
+        $addData->bindValue(':link',$addLink);
+        $query->execute();
+
+    
+    }
+
+    function edit($id)
+    {
+        require($_SERVER['DOCUMENT_ROOT'] . '/cv/templates/Models/Education.php');
+        $contact = new Contact();
+
+        $d["contact"] = $contact->showContact($id);
+
+        if (isset($_POST["nama"]))
+        {
+            if ($contact->edit($id, $_POST["nama"], $_POST["link"]))
+            {
+                header("Location: " . WEBROOT . "index");
+            }
+        }
+        $this->set($d);
+        $this->render("edit");
+    }
+
+    function delete($id)
+    {
+        require($_SERVER['DOCUMENT_ROOT'] . '/cv/templates/Models/Education.php');
+
+        $contact = new Contact();
+        if ($contact->delete($id))
+        {
+            header("Location: " . WEBROOT . "index");
+        }
+    }
+}
+?>

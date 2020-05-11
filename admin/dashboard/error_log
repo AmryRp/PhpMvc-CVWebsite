@@ -1,0 +1,397 @@
+[05-May-2020 08:15:07 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/index.php on line 7
+[05-May-2020 08:15:07 UTC] PHP Warning:  include(https://arp-cv.website/templates/views/footer.php): failed to open stream: no suitable wrapper could be found in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/index.php on line 7
+[05-May-2020 08:15:07 UTC] PHP Warning:  include(): Failed opening 'https://arp-cv.website/templates/views/footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/index.php on line 7
+[05-May-2020 08:18:09 UTC] PHP Warning:  include(../cv/templates/views/footer.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/index.php on line 7
+[05-May-2020 08:18:09 UTC] PHP Warning:  include(../cv/templates/views/footer.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/index.php on line 7
+[05-May-2020 08:18:09 UTC] PHP Warning:  include(): Failed opening '../cv/templates/views/footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/index.php on line 7
+[05-May-2020 08:18:46 UTC] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/index.php on line 7
+[05-May-2020 08:18:46 UTC] PHP Warning:  include(ROOT/cv/templates/views/footer.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/index.php on line 7
+[05-May-2020 08:18:46 UTC] PHP Warning:  include(ROOT/cv/templates/views/footer.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/index.php on line 7
+[05-May-2020 08:18:46 UTC] PHP Warning:  include(): Failed opening 'ROOT/cv/templates/views/footer.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/index.php on line 7
+[05-May-2020 08:25:11 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/templates/config/core.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/index.php on line 7
+[05-May-2020 08:25:11 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/templates/config/core.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/index.php on line 7
+[05-May-2020 08:25:11 UTC] PHP Fatal error:  require(): Failed opening required '/home/u620771931/domains/arp-cv.website/public_html/admin/templates/config/core.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/index.php on line 7
+[05-May-2020 08:25:47 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/cv/templates/config/core.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/index.php on line 7
+[05-May-2020 08:25:47 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/cv/templates/config/core.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/index.php on line 7
+[05-May-2020 08:25:47 UTC] PHP Fatal error:  require(): Failed opening required '/home/u620771931/domains/arp-cv.website/public_html/admin/cv/templates/config/core.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/index.php on line 7
+[05-May-2020 08:26:02 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/templates/config/databaseconnect.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/config/core.php on line 2
+[05-May-2020 08:26:02 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/templates/config/databaseconnect.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/config/core.php on line 2
+[05-May-2020 08:26:02 UTC] PHP Fatal error:  require(): Failed opening required '/home/u620771931/domains/arp-cv.website/public_html/admin/templates/config/databaseconnect.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/config/core.php on line 2
+[05-May-2020 08:26:39 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html../cv/templates/config/core.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/index.php on line 7
+[05-May-2020 08:26:39 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html../cv/templates/config/core.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/index.php on line 7
+[05-May-2020 08:26:39 UTC] PHP Fatal error:  require(): Failed opening required '/home/u620771931/domains/arp-cv.website/public_html../cv/templates/config/core.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/index.php on line 7
+[05-May-2020 08:26:54 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/templates/config/databaseconnect.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/config/core.php on line 2
+[05-May-2020 08:26:54 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/templates/config/databaseconnect.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/config/core.php on line 2
+[05-May-2020 08:26:54 UTC] PHP Fatal error:  require(): Failed opening required '/home/u620771931/domains/arp-cv.website/public_html/admin/templates/config/databaseconnect.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/config/core.php on line 2
+[05-May-2020 08:28:05 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_htmltemplates/config/databaseconnect.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/config/core.php on line 2
+[05-May-2020 08:28:05 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_htmltemplates/config/databaseconnect.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/config/core.php on line 2
+[05-May-2020 08:28:05 UTC] PHP Fatal error:  require(): Failed opening required '/home/u620771931/domains/arp-cv.website/public_htmltemplates/config/databaseconnect.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/config/core.php on line 2
+[05-May-2020 08:28:15 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_htmltemplates/config/databaseconnect.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/config/core.php on line 2
+[05-May-2020 08:28:15 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_htmltemplates/config/databaseconnect.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/config/core.php on line 2
+[05-May-2020 08:28:15 UTC] PHP Fatal error:  require(): Failed opening required '/home/u620771931/domains/arp-cv.website/public_htmltemplates/config/databaseconnect.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/config/core.php on line 2
+[05-May-2020 08:28:20 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/templates/config/databaseconnect.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/config/core.php on line 2
+[05-May-2020 08:28:20 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/templates/config/databaseconnect.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/config/core.php on line 2
+[05-May-2020 08:28:20 UTC] PHP Fatal error:  require(): Failed opening required '/home/u620771931/domains/arp-cv.website/public_html/templates/config/databaseconnect.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/config/core.php on line 2
+[05-May-2020 08:28:52 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/templates/Core/Controller.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/config/core.php on line 3
+[05-May-2020 08:28:52 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/templates/Core/Controller.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/config/core.php on line 3
+[05-May-2020 08:28:52 UTC] PHP Fatal error:  require(): Failed opening required '/home/u620771931/domains/arp-cv.website/public_html/admin/templates/Core/Controller.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/config/core.php on line 3
+[05-May-2020 08:29:34 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/router.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/index.php on line 8
+[05-May-2020 08:29:34 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/router.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/index.php on line 8
+[05-May-2020 08:29:34 UTC] PHP Fatal error:  require(): Failed opening required '/home/u620771931/domains/arp-cv.website/public_html/admin/router.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/index.php on line 8
+[05-May-2020 08:30:17 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/templates/controller/adminController.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/dispatcher.php on line 22
+[05-May-2020 08:30:17 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/templates/controller/adminController.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/dispatcher.php on line 22
+[05-May-2020 08:30:17 UTC] PHP Fatal error:  require(): Failed opening required '/home/u620771931/domains/arp-cv.website/public_html/admin/templates/controller/adminController.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/cv/dispatcher.php on line 22
+[05-May-2020 08:31:47 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/adminController.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/dispatcher.php on line 22
+[05-May-2020 08:31:47 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/adminController.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/dispatcher.php on line 22
+[05-May-2020 08:31:47 UTC] PHP Fatal error:  require(): Failed opening required '/home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/adminController.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/cv/dispatcher.php on line 22
+[05-May-2020 08:32:34 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/templates/Models/Contact.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/adminController.php on line 6
+[05-May-2020 08:32:34 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/templates/Models/Contact.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/adminController.php on line 6
+[05-May-2020 08:32:34 UTC] PHP Fatal error:  require(): Failed opening required '/home/u620771931/domains/arp-cv.website/public_html/admin/templates/Models/Contact.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/adminController.php on line 6
+[05-May-2020 08:33:05 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/templates/admin/index.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 16
+[05-May-2020 08:33:05 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/templates/admin/index.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 16
+[05-May-2020 08:33:05 UTC] PHP Fatal error:  require(): Failed opening required '/home/u620771931/domains/arp-cv.website/public_html/admin/templates/admin/index.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 16
+[05-May-2020 08:33:45 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/cv/templates/admin/index.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 16
+[05-May-2020 08:33:45 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/cv/templates/admin/index.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 16
+[05-May-2020 08:33:45 UTC] PHP Fatal error:  require(): Failed opening required '/home/u620771931/domains/arp-cv.website/public_html/cv/templates/admin/index.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 16
+[05-May-2020 08:36:24 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/templates/admin/index.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 18
+[05-May-2020 08:36:24 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/templates/admin/index.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 18
+[05-May-2020 08:36:24 UTC] PHP Fatal error:  require(): Failed opening required '/home/u620771931/domains/arp-cv.website/public_html/templates/admin/index.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 18
+[05-May-2020 08:37:14 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin/index.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 18
+[05-May-2020 08:37:14 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin/index.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 18
+[05-May-2020 08:37:14 UTC] PHP Fatal error:  require(): Failed opening required '/home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin/index.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 18
+[05-May-2020 08:37:49 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_htmladmin/dashboard/index.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 18
+[05-May-2020 08:37:49 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_htmladmin/dashboard/index.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 18
+[05-May-2020 08:37:49 UTC] PHP Fatal error:  require(): Failed opening required '/home/u620771931/domains/arp-cv.website/public_htmladmin/dashboard/index.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 18
+[05-May-2020 08:38:11 UTC] PHP Notice:  Constant WEBROOT already defined in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/index.php on line 4
+[05-May-2020 08:38:11 UTC] PHP Notice:  Constant ROOT already defined in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/index.php on line 5
+[05-May-2020 08:38:11 UTC] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/config/databaseconnect.php on line 4
+[05-May-2020 08:38:38 UTC] PHP Notice:  Constant WEBROOT already defined in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/index.php on line 4
+[05-May-2020 08:38:38 UTC] PHP Notice:  Constant ROOT already defined in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/index.php on line 5
+[05-May-2020 08:38:38 UTC] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/config/databaseconnect.php on line 4
+[05-May-2020 08:40:29 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/templates/views/index.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 31
+[05-May-2020 08:40:29 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/templates/views/index.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 31
+[05-May-2020 08:40:29 UTC] PHP Fatal error:  require(): Failed opening required '/home/u620771931/domains/arp-cv.website/public_html/admin/templates/views/index.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 31
+[05-May-2020 08:40:38 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/templates/views/index.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 31
+[05-May-2020 08:40:38 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/templates/views/index.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 31
+[05-May-2020 08:40:38 UTC] PHP Fatal error:  require(): Failed opening required '/home/u620771931/domains/arp-cv.website/public_html/admin/templates/views/index.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 31
+[05-May-2020 08:40:58 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/templates/views/index.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 31
+[05-May-2020 08:40:58 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/templates/views/index.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 31
+[05-May-2020 08:40:58 UTC] PHP Fatal error:  require(): Failed opening required '/home/u620771931/domains/arp-cv.website/public_html/admin/templates/views/index.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 31
+[05-May-2020 08:41:05 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/templates/views/index.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 31
+[05-May-2020 08:41:05 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/templates/views/index.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 31
+[05-May-2020 08:41:05 UTC] PHP Fatal error:  require(): Failed opening required '/home/u620771931/domains/arp-cv.website/public_html/admin/templates/views/index.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 31
+[05-May-2020 09:57:07 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/templates/Models/Contact.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/viewsController.php on line 6
+[05-May-2020 09:57:07 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/templates/Models/Contact.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/viewsController.php on line 6
+[05-May-2020 09:57:07 UTC] PHP Fatal error:  require(): Failed opening required '/home/u620771931/domains/arp-cv.website/public_html/admin/templates/Models/Contact.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/viewsController.php on line 6
+[05-May-2020 10:00:28 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/templates/Models/Contact.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/viewsController.php on line 6
+[05-May-2020 10:00:28 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/templates/Models/Contact.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/viewsController.php on line 6
+[05-May-2020 10:00:28 UTC] PHP Fatal error:  require(): Failed opening required '/home/u620771931/domains/arp-cv.website/public_html/admin/templates/Models/Contact.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/viewsController.php on line 6
+[05-May-2020 10:04:00 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/templates/Models/Contact.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/viewsController.php on line 6
+[05-May-2020 10:04:00 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/templates/Models/Contact.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/viewsController.php on line 6
+[05-May-2020 10:04:00 UTC] PHP Fatal error:  require(): Failed opening required '/home/u620771931/domains/arp-cv.website/public_html/admin/templates/Models/Contact.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/viewsController.php on line 6
+[05-May-2020 11:10:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 2
+[05-May-2020 11:11:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 2
+[05-May-2020 11:11:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 2
+[05-May-2020 11:38:10 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 3
+[05-May-2020 11:38:10 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 3
+[05-May-2020 11:38:15 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 3
+[05-May-2020 11:38:15 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 3
+[05-May-2020 11:38:16 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 3
+[05-May-2020 11:38:16 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 3
+[05-May-2020 11:49:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 2
+[05-May-2020 11:49:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 2
+[05-May-2020 11:49:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 2
+[05-May-2020 11:49:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 2
+[05-May-2020 11:50:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 2
+[05-May-2020 11:52:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 2
+[05-May-2020 11:55:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 2
+[05-May-2020 11:59:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 2
+[05-May-2020 11:59:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 2
+[05-May-2020 11:59:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 2
+[05-May-2020 12:00:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 2
+[05-May-2020 12:05:31 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 2
+[06-May-2020 04:37:22 UTC] PHP Notice:  Undefined index: user in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 34
+[06-May-2020 04:37:22 UTC] PHP Notice:  Undefined index: user in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 34
+[06-May-2020 10:13:05 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 22
+[06-May-2020 10:14:59 UTC] PHP Notice:  Undefined variable: page in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 45
+[06-May-2020 10:14:59 UTC] PHP Warning:  include(index): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 22
+[06-May-2020 10:14:59 UTC] PHP Warning:  include(index): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 22
+[06-May-2020 10:14:59 UTC] PHP Warning:  include(): Failed opening 'index' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 22
+[06-May-2020 10:14:59 UTC] PHP Warning:  include(index): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 22
+[06-May-2020 10:14:59 UTC] PHP Warning:  include(index): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 22
+[06-May-2020 10:14:59 UTC] PHP Warning:  include(): Failed opening 'index' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 22
+[06-May-2020 10:17:12 UTC] PHP Notice:  Undefined variable: page in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 45
+[06-May-2020 10:17:12 UTC] PHP Notice:  Constant WEBROOT already defined in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/index.php on line 4
+[06-May-2020 10:17:12 UTC] PHP Notice:  Constant ROOT already defined in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/index.php on line 5
+[06-May-2020 10:17:12 UTC] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/config/databaseconnect.php on line 4
+[06-May-2020 10:18:12 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 22
+[06-May-2020 10:18:38 UTC] PHP Notice:  Undefined variable: page in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 45
+[06-May-2020 10:18:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function this() in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php:22
+Stack trace:
+#0 /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php(18): require()
+#1 /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/adminController.php(12): Controller->render('index')
+#2 /home/u620771931/domains/arp-cv.website/public_html/cv/dispatcher.php(15): adminController->index()
+#3 /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/index.php(12): Dispatcher->dispatch()
+#4 {main}
+  thrown in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 22
+[06-May-2020 10:19:51 UTC] PHP Notice:  Undefined variable: page in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 45
+[06-May-2020 10:19:51 UTC] PHP Warning:  include(./.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 22
+[06-May-2020 10:19:51 UTC] PHP Warning:  include(./.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 22
+[06-May-2020 10:19:51 UTC] PHP Warning:  include(): Failed opening './.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 22
+[06-May-2020 10:19:51 UTC] PHP Warning:  include(./.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 22
+[06-May-2020 10:19:51 UTC] PHP Warning:  include(./.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 22
+[06-May-2020 10:19:51 UTC] PHP Warning:  include(): Failed opening './.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 22
+[06-May-2020 10:20:24 UTC] PHP Notice:  Undefined variable: page in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 45
+[06-May-2020 10:20:24 UTC] PHP Notice:  Undefined variable: page in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 22
+[06-May-2020 10:20:24 UTC] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 22
+[06-May-2020 10:20:24 UTC] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 22
+[06-May-2020 10:20:24 UTC] PHP Warning:  include(): Failed opening '.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 22
+[06-May-2020 10:20:24 UTC] PHP Notice:  Undefined variable: page in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 45
+[06-May-2020 10:20:24 UTC] PHP Notice:  Undefined variable: page in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 22
+[06-May-2020 10:20:24 UTC] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 22
+[06-May-2020 10:20:24 UTC] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 22
+[06-May-2020 10:20:24 UTC] PHP Warning:  include(): Failed opening '.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 22
+[06-May-2020 10:21:33 UTC] PHP Notice:  Undefined variable: page in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 45
+[06-May-2020 10:23:09 UTC] PHP Notice:  Undefined variable: page in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 45
+[06-May-2020 10:23:09 UTC] PHP Notice:  Undefined variable: page in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 46
+[06-May-2020 10:29:03 UTC] PHP Notice:  Undefined variable: page in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 45
+[06-May-2020 10:29:03 UTC] PHP Notice:  Undefined variable: page in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 46
+[06-May-2020 10:32:20 UTC] PHP Notice:  Undefined variable: page in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 45
+[06-May-2020 10:32:20 UTC] PHP Notice:  Undefined variable: page in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 46
+[06-May-2020 10:32:23 UTC] PHP Notice:  Undefined variable: page in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 45
+[06-May-2020 10:32:23 UTC] PHP Notice:  Undefined variable: page in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 46
+[06-May-2020 10:43:18 UTC] PHP Notice:  Undefined variable: page in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 45
+[06-May-2020 10:43:18 UTC] PHP Notice:  Undefined variable: page in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 46
+[06-May-2020 10:43:29 UTC] PHP Notice:  Undefined index: pagevalue in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 69
+[06-May-2020 10:43:29 UTC] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 69
+[06-May-2020 10:43:29 UTC] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 69
+[06-May-2020 10:43:29 UTC] PHP Warning:  include(): Failed opening '.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 69
+[06-May-2020 10:43:29 UTC] PHP Notice:  Undefined index: pagevalue in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 69
+[06-May-2020 10:43:29 UTC] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 69
+[06-May-2020 10:43:29 UTC] PHP Warning:  include(.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 69
+[06-May-2020 10:43:29 UTC] PHP Warning:  include(): Failed opening '.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 69
+[06-May-2020 14:49:52 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/templates/views/index.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 31
+[06-May-2020 14:49:52 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/templates/views/index.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 31
+[06-May-2020 14:49:52 UTC] PHP Fatal error:  require(): Failed opening required '/home/u620771931/domains/arp-cv.website/public_html/admin/templates/views/index.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 31
+[06-May-2020 14:50:39 UTC] PHP Notice:  Undefined index: user in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 34
+[06-May-2020 14:50:39 UTC] PHP Notice:  Undefined index: user in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 34
+[06-May-2020 14:50:51 UTC] PHP Notice:  Undefined index: user in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 34
+[06-May-2020 14:50:51 UTC] PHP Notice:  Undefined index: user in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 34
+[06-May-2020 15:35:13 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/templates/views/index.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 31
+[06-May-2020 15:35:13 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/templates/views/index.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 31
+[06-May-2020 15:35:13 UTC] PHP Fatal error:  require(): Failed opening required '/home/u620771931/domains/arp-cv.website/public_html/admin/templates/views/index.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 31
+[06-May-2020 15:49:56 UTC] PHP Fatal error:  Uncaught Error: Class 'contactController' not found in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/save.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/save.php on line 5
+[06-May-2020 15:52:43 UTC] PHP Fatal error:  Class 'Controller' not found in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php on line 2
+[06-May-2020 15:54:04 UTC] PHP Fatal error:  Class 'Controller' not found in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php on line 2
+[06-May-2020 15:54:51 UTC] PHP Fatal error:  Cannot declare class Database, because the name is already in use in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/config/databaseconnect.php on line 4
+[06-May-2020 15:55:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on string in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php:29
+Stack trace:
+#0 /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/save.php(6): contactController::create()
+#1 {main}
+  thrown in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php on line 29
+[06-May-2020 15:55:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on string in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php:29
+Stack trace:
+#0 /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/save.php(6): contactController::create()
+#1 {main}
+  thrown in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php on line 29
+[06-May-2020 15:58:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on string in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php:29
+Stack trace:
+#0 /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/save.php(6): contactController::create()
+#1 {main}
+  thrown in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php on line 29
+[06-May-2020 15:59:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on string in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php:27
+Stack trace:
+#0 /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/save.php(6): contactController::create()
+#1 {main}
+  thrown in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php on line 27
+[06-May-2020 16:07:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on string in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php:27
+Stack trace:
+#0 /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/save.php(6): contactController::create()
+#1 {main}
+  thrown in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php on line 27
+[06-May-2020 16:08:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on string in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php:27
+Stack trace:
+#0 /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/save.php(6): contactController::create()
+#1 {main}
+  thrown in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php on line 27
+[06-May-2020 16:10:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on string in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php:24
+Stack trace:
+#0 /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/save.php(8): contactController::create()
+#1 {main}
+  thrown in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php on line 24
+[06-May-2020 16:10:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on string in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php:24
+Stack trace:
+#0 /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/save.php(8): contactController::create()
+#1 {main}
+  thrown in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php on line 24
+[06-May-2020 16:11:16 UTC] PHP Notice:  Undefined variable: addNama in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php on line 23
+[06-May-2020 16:11:16 UTC] PHP Notice:  Undefined variable: addLink in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php on line 23
+[06-May-2020 16:11:16 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php:25
+Stack trace:
+#0 /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/save.php(8): contactController::create()
+#1 {main}
+  thrown in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php on line 25
+[06-May-2020 16:12:13 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php:27
+Stack trace:
+#0 /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/save.php(8): contactController::create()
+#1 {main}
+  thrown in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php on line 27
+[06-May-2020 16:16:11 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php:27
+Stack trace:
+#0 /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/save.php(8): contactController::create()
+#1 {main}
+  thrown in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php on line 27
+[06-May-2020 16:19:41 UTC] PHP Deprecated:  Non-static method Controller::set() should not be called statically in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php on line 27
+[06-May-2020 16:19:41 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php:9
+Stack trace:
+#0 /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php(27): Controller::set(Array)
+#1 /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/save.php(8): contactController::create()
+#2 {main}
+  thrown in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 9
+[06-May-2020 16:23:38 UTC] PHP Notice:  Undefined index: user in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 34
+[06-May-2020 16:23:38 UTC] PHP Notice:  Undefined index: user in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 34
+[06-May-2020 17:11:02 UTC] PHP Notice:  Undefined index: user in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 34
+[06-May-2020 17:11:02 UTC] PHP Notice:  Undefined index: user in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 34
+[06-May-2020 17:11:03 UTC] PHP Notice:  Undefined index: user in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 34
+[06-May-2020 17:11:03 UTC] PHP Notice:  Undefined index: user in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 34
+[06-May-2020 17:11:23 UTC] PHP Notice:  Undefined index: user in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 34
+[06-May-2020 17:11:23 UTC] PHP Notice:  Undefined index: user in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 34
+[08-May-2020 01:47:47 UTC] PHP Notice:  Undefined index: user in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 34
+[08-May-2020 01:47:47 UTC] PHP Notice:  Undefined index: user in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 34
+[08-May-2020 02:48:18 UTC] PHP Notice:  Undefined variable: Education in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 71
+[08-May-2020 02:48:18 UTC] PHP Warning:  array_reverse() expects parameter 1 to be array, null given in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 71
+[08-May-2020 02:48:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 71
+[08-May-2020 02:48:18 UTC] PHP Notice:  Undefined variable: Education in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 71
+[08-May-2020 02:48:18 UTC] PHP Warning:  array_reverse() expects parameter 1 to be array, null given in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 71
+[08-May-2020 02:48:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 71
+[08-May-2020 02:48:30 UTC] PHP Notice:  Undefined variable: Education in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 71
+[08-May-2020 02:48:30 UTC] PHP Warning:  array_reverse() expects parameter 1 to be array, null given in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 71
+[08-May-2020 02:48:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 71
+[08-May-2020 02:48:30 UTC] PHP Notice:  Undefined variable: Education in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 71
+[08-May-2020 02:48:30 UTC] PHP Warning:  array_reverse() expects parameter 1 to be array, null given in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 71
+[08-May-2020 02:48:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 71
+[08-May-2020 04:12:50 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/admin.php on line 84
+[08-May-2020 06:05:17 UTC] PHP Notice:  Undefined index: user in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 38
+[08-May-2020 06:05:17 UTC] PHP Notice:  Undefined index: user in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 38
+[08-May-2020 06:08:07 UTC] PHP Notice:  Undefined index: user in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 38
+[08-May-2020 06:08:07 UTC] PHP Notice:  Undefined index: user in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 38
+[08-May-2020 08:03:55 UTC] PHP Notice:  Undefined index: name in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php on line 21
+[08-May-2020 08:03:55 UTC] PHP Notice:  Undefined index: link in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php on line 22
+[08-May-2020 08:18:38 UTC] PHP Notice:  Undefined index: name in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php on line 21
+[08-May-2020 08:18:38 UTC] PHP Notice:  Undefined index: link in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php on line 22
+[08-May-2020 08:18:46 UTC] PHP Notice:  Undefined index: name in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php on line 21
+[08-May-2020 08:18:46 UTC] PHP Notice:  Undefined index: link in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php on line 22
+[08-May-2020 08:18:53 UTC] PHP Notice:  Undefined index: name in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php on line 21
+[08-May-2020 08:18:53 UTC] PHP Notice:  Undefined index: link in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php on line 22
+[08-May-2020 10:41:09 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/templates/views/index.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 31
+[08-May-2020 10:41:09 UTC] PHP Warning:  require(/home/u620771931/domains/arp-cv.website/public_html/admin/templates/views/index.php): failed to open stream: No such file or directory in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 31
+[08-May-2020 10:41:09 UTC] PHP Fatal error:  require(): Failed opening required '/home/u620771931/domains/arp-cv.website/public_html/admin/templates/views/index.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/Core/Controller.php on line 31
+[08-May-2020 10:42:08 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 36
+[08-May-2020 10:42:08 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 36
+[08-May-2020 10:42:22 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 36
+[08-May-2020 10:42:22 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 36
+[08-May-2020 10:45:20 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 36
+[08-May-2020 10:45:20 UTC] PHP Notice:  Undefined variable: _SESSION in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 36
+[08-May-2020 12:08:40 UTC] PHP Parse error:  syntax error, unexpected '$controllername' (T_VARIABLE), expecting ',' or ';' in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/delete.php on line 7
+[08-May-2020 12:27:29 UTC] PHP Notice:  Undefined index: deleteData in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/delete.php on line 2
+[08-May-2020 12:47:00 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php on line 51
+[08-May-2020 12:51:09 UTC] PHP Notice:  Undefined variable: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 45
+[08-May-2020 12:51:09 UTC] PHP Notice:  Undefined variable: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 45
+[08-May-2020 12:51:15 UTC] PHP Notice:  Undefined variable: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 45
+[08-May-2020 12:51:15 UTC] PHP Notice:  Undefined variable: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 45
+[08-May-2020 12:55:12 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 45
+[08-May-2020 12:55:12 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 45
+[08-May-2020 12:55:18 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 45
+[08-May-2020 12:55:18 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 45
+[08-May-2020 12:56:48 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 46
+[08-May-2020 12:56:48 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 46
+[08-May-2020 12:57:20 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 46
+[08-May-2020 12:57:20 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 46
+[08-May-2020 13:02:18 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 46
+[08-May-2020 13:02:18 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 46
+[08-May-2020 13:02:21 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 46
+[08-May-2020 13:02:21 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 46
+[08-May-2020 13:03:57 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 32
+[08-May-2020 13:03:57 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 32
+[08-May-2020 13:04:04 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 32
+[08-May-2020 13:04:04 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 32
+[08-May-2020 13:05:29 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 32
+[08-May-2020 13:05:29 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 32
+[08-May-2020 13:06:15 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 32
+[08-May-2020 13:06:15 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 32
+[08-May-2020 13:06:21 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 32
+[08-May-2020 13:06:21 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 32
+[08-May-2020 13:06:53 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 32
+[08-May-2020 13:06:53 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 32
+[08-May-2020 13:07:02 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 32
+[08-May-2020 13:07:02 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 32
+[08-May-2020 13:07:08 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 32
+[08-May-2020 13:07:08 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 32
+[08-May-2020 13:07:18 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 32
+[08-May-2020 13:07:18 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 32
+[08-May-2020 13:07:24 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 32
+[08-May-2020 13:07:24 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 32
+[08-May-2020 13:09:31 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 31
+[08-May-2020 13:09:31 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 31
+[08-May-2020 13:09:40 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php on line 54
+[08-May-2020 13:10:17 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php on line 54
+[08-May-2020 13:10:19 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 31
+[08-May-2020 13:10:19 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 31
+[08-May-2020 13:10:21 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 31
+[08-May-2020 13:10:21 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 31
+[08-May-2020 13:10:26 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php on line 54
+[08-May-2020 13:10:51 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 31
+[08-May-2020 13:10:51 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 31
+[08-May-2020 13:10:54 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 31
+[08-May-2020 13:10:54 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 31
+[08-May-2020 13:10:59 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/u620771931/domains/arp-cv.website/public_html/cv/templates/controller/contactController.php on line 54
+[08-May-2020 13:28:21 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 31
+[08-May-2020 13:28:21 UTC] PHP Warning:  A non-numeric value encountered in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 31
+[08-May-2020 13:28:21 UTC] PHP Warning:  A non-numeric value encountered in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 31
+[08-May-2020 13:28:21 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 31
+[08-May-2020 13:28:21 UTC] PHP Warning:  A non-numeric value encountered in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 31
+[08-May-2020 13:28:21 UTC] PHP Warning:  A non-numeric value encountered in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 31
+[08-May-2020 13:28:29 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 31
+[08-May-2020 13:28:29 UTC] PHP Warning:  A non-numeric value encountered in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 31
+[08-May-2020 13:28:29 UTC] PHP Warning:  A non-numeric value encountered in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 31
+[08-May-2020 13:28:29 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 31
+[08-May-2020 13:28:29 UTC] PHP Warning:  A non-numeric value encountered in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 31
+[08-May-2020 13:28:29 UTC] PHP Warning:  A non-numeric value encountered in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 31
+[08-May-2020 13:30:01 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 36
+[08-May-2020 13:30:01 UTC] PHP Warning:  A non-numeric value encountered in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 36
+[08-May-2020 13:30:01 UTC] PHP Warning:  A non-numeric value encountered in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 36
+[08-May-2020 13:30:01 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 36
+[08-May-2020 13:30:01 UTC] PHP Warning:  A non-numeric value encountered in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 36
+[08-May-2020 13:30:01 UTC] PHP Warning:  A non-numeric value encountered in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 36
+[08-May-2020 13:30:03 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 36
+[08-May-2020 13:30:03 UTC] PHP Warning:  A non-numeric value encountered in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 36
+[08-May-2020 13:30:03 UTC] PHP Warning:  A non-numeric value encountered in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 36
+[08-May-2020 13:30:03 UTC] PHP Notice:  Undefined index: user in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 45
+[08-May-2020 13:30:03 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 36
+[08-May-2020 13:30:03 UTC] PHP Warning:  A non-numeric value encountered in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 36
+[08-May-2020 13:30:03 UTC] PHP Warning:  A non-numeric value encountered in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 36
+[08-May-2020 13:30:03 UTC] PHP Notice:  Undefined index: user in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 45
+[08-May-2020 13:30:06 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 36
+[08-May-2020 13:30:06 UTC] PHP Warning:  A non-numeric value encountered in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 36
+[08-May-2020 13:30:06 UTC] PHP Warning:  A non-numeric value encountered in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 36
+[08-May-2020 13:30:06 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 36
+[08-May-2020 13:30:06 UTC] PHP Warning:  A non-numeric value encountered in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 36
+[08-May-2020 13:30:06 UTC] PHP Warning:  A non-numeric value encountered in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 36
+[08-May-2020 13:31:01 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 36
+[08-May-2020 13:31:01 UTC] PHP Notice:  Undefined index: Alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 36
+[08-May-2020 13:32:29 UTC] PHP Notice:  Undefined index: alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 36
+[08-May-2020 13:32:29 UTC] PHP Notice:  Undefined index: alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 36
+[08-May-2020 13:32:44 UTC] PHP Notice:  Undefined index: alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 36
+[08-May-2020 13:32:53 UTC] PHP Notice:  Undefined index: alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 36
+[08-May-2020 13:32:53 UTC] PHP Notice:  Undefined index: alert in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 36
+[08-May-2020 14:14:11 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 49
+[08-May-2020 14:18:57 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 49
+[08-May-2020 14:22:03 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 49
+[08-May-2020 14:44:00 UTC] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 58
+[10-May-2020 11:33:02 UTC] PHP Notice:  Undefined index: user in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 36
+[10-May-2020 11:33:02 UTC] PHP Notice:  Undefined index: user in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 36
+[10-May-2020 12:53:00 UTC] PHP Notice:  Undefined index: user in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 36
+[10-May-2020 12:53:00 UTC] PHP Notice:  Undefined index: user in /home/u620771931/domains/arp-cv.website/public_html/admin/dashboard/header.php on line 36

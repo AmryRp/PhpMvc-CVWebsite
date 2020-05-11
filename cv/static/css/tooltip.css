@@ -1,0 +1,269 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 7, 2020, 5:24:37 PM
+    Author     : amry4
+*/
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+abbr[data-title] {
+    position: relative;
+    text-decoration: underline dotted; 
+}
+abbr[data-title]:hover::after,
+abbr[data-title]:focus::after {
+    content: attr(data-title);
+    position: absolute;
+    left: 25%;
+    top: -22px;
+    transform: translateX(5%);
+    width: auto;
+    white-space: nowrap;
+
+    color: #fff;
+    border-radius: 2px;
+    box-shadow: 1px 1px 5px 0 rgba(0,0,0,0.4);
+    font-size: 14px;
+    padding: 3px 5px;
+}
+
+.tooltipdelete::after {
+    content: attr(data-text);
+    background: #A52A2A;
+}
+.tooltipedit::after
+{
+    content: attr(data-text);
+    background: #1568c5;
+}
+.tooltipview::after
+{
+    content: attr(data-text);
+    background: #F4A460;
+}
+i[data-title] {
+    position: relative;
+    /*text-decoration: underline dotted;*/ 
+}
+i[data-title]:hover::after,
+i[data-title]:focus::after {
+    content: attr(data-title);
+    position: absolute;
+    left: 25%;
+    top: -22px;
+    transform: translateX(5%);
+    width: auto;
+    white-space: nowrap;
+
+    color: #fff;
+    border-radius: 2px;
+    box-shadow: 1px 1px 5px 0 rgba(0,0,0,0.4);
+    font-size: 14px;
+    padding: 3px 5px;
+}
+.tooltipapprove::after {
+    content: attr(data-text);
+    background: green;
+}
+.tooltipreject::after {
+    content: attr(data-text);
+    background: red;
+}
+.tooltippending::after {
+    content: attr(data-text);
+    background: orange;
+}
+.col-nopad
+{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    min-height: 100px;
+    padding-right: 0px;
+}
+.col-nopad2
+{
+    position: relative;
+    min-height: 10px;
+    padding-right: 0px;
+}
+.no-padding
+{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+div.text-a
+{
+    text-align: center;
+}
+
+.desc-text{
+    color: #fff3cd;
+}
+.centered-bottom {
+    position: absolute;
+    top: 85%;
+    left: 50%;
+    transform: translate(-80%, -50%);
+}
+.kontainer {    
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 950px;
+}
+div.profile
+{
+    float: none;
+    clear: both;
+}
+section.py-custom{
+    padding-bottom: 4rem!important;
+    padding-top: 4rem!important;
+}
+/* Media query rules to override previous rules, as necessary */
+@media screen and (max-device-width:999.89px) {  
+    section.py-custom{
+        padding-bottom: 3rem!important;
+        padding-top: 0rem!important;
+    }
+    div.profile{
+        display: none;
+    }
+    .kontainer {
+        margin-left: 0px;
+    }
+    .blankpage
+    {
+        display: none;
+    }
+}
+.FixedHeightContainer
+{
+    float:right;
+    height: 422px;
+    width: 100%; 
+    padding:0px;
+    background: #121116;
+}
+.Content
+{
+    height:402px;
+    overflow:auto;
+    margin: 8px;
+}
+::-webkit-scrollbar
+{
+    width:0;
+}
+#scrollpath
+{
+    position: absolute;
+    right:0;
+    width:8px;
+    height: 422px;
+    background: rgba(255,255,255,0.05);
+}
+#progressbar
+{
+    position: absolute;
+    right:0;
+    width:8px;
+    background: linear-gradient(to top,#008aff,#00ffe7);
+    animation:animate 5s linear infinite;
+}
+@keyframes animate
+{
+    0%,100%
+    {
+        filter: hue-rotate(0deg);
+    }
+    50%
+    {
+        filter: hue-rotate(360deg);
+    }
+}
+#progressbar:before
+{
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 422px;
+    border-radius: 5px 5px 5px 5px;
+    background: linear-gradient(to top,#008aff,#00ffe7);
+    filter:blur(10px);
+}
+#progressbar:after
+{
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 422px;
+    border-radius: 5px 5px 5px 5px;
+    background: linear-gradient(to top,#008aff,#00ffe7);
+    filter:blur(24px);
+}
+.text-header-color
+{
+    color: : linear-gradient(to top,#008aff,#00ffe7);
+    animation:animate 5s linear infinite;
+}
+.blankpage
+{
+    width: 3px;
+    height: 422px;
+    border-radius: 0px 5px 5px 0px;
+    background: linear-gradient(to top,#fff,#00ffe7);
+    animation:animate 5s linear infinite;
+}
+.profile{
+    background: #1fe956;
+    border-radius: 8px 0px 0px 8px;
+}
+.img-profile{
+    margin-left: 3px;
+    border-radius: 8px 0px 0px 8px;
+}
+.justify-c
+{
+     text-align: justify;
+}
+.rows{
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: 1px;
+}
+.icon-pad{
+    padding-right:2px;
+    padding-left:2px;
+    color: #fff;
+}
+.example{
+    background: #fff;
+     border-radius: 8px 8px 8px 8px;
+}
+.tabel{
+    display: table;
+    border-collapse: collapse;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    border-spacing: 2px;
+    font-variant: normal;
+    width: 100%;
+    margin-bottom: 1rem;
+    border: 2px gray;
+}
+.pull-left{
+float: left !important;
+color: #4c4;
+}

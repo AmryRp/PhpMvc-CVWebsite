@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteRule ^([a-zA-Z0-9\-\_\/]*)$ dashboard/index.php [L] [NC]
+
+
+

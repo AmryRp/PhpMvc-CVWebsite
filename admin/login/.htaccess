@@ -1,0 +1,7 @@
+
+RewriteEngine on
+
+RewriteRule ^([a-zA-Z0-9\-\_\/]*)$ login.php [L] [NC]
+
+
+

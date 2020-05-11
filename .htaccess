@@ -1,0 +1,7 @@
+
+RewriteEngine on
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP_HOST} !^https://arp-cv.website$ [NC]
+RewriteRule ^(.*)$ https://arp-cv.website/cv/ [L,R=301]
+RewriteCond %{HTTP_HOST} !^arp-cv.website$ [NC]
+RewriteRule ^(.*)$ https://arp-cv.website/cv/ [L,R=301]
